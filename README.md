@@ -1,0 +1,1 @@
+⚠️ Atenção: Todo projeto e exercício de tecnologias voltadas ao back-end estão aqui. As pastas 'Programação C# + MySQL' e 'Programação Java (POO)' contêm exercícios e projetos da Etec. As demais pastas são de aprendizados de outros locais.
